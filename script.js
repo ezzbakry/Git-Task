@@ -5,3 +5,5 @@ let arr =[
         track:"MERN"
     }
 ]
+
+localStorage.setItem("first member",JSON.stringify(arr[0]))
