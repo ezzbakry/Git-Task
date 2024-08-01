@@ -13,3 +13,4 @@ let arr =[
 ]
 
 localStorage.setItem("first member",JSON.stringify(arr[0]))
+localStorage.setItem("second member",JSON.stringify(arr[1]))
